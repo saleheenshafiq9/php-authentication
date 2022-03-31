@@ -1,0 +1,20 @@
+body {
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: #fff;
+}
+
+.btn {
+  background-color: #ffd131;
+}
+
+.btn:hover {
+  background-color: #f5b82e;
+}
